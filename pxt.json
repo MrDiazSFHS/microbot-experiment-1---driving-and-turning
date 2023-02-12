@@ -1,0 +1,26 @@
+{
+    "name": "micro:bot Experiment 1 - Driving and Turning",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "motobit": "github:sparkfun/pxt-moto-bit#406b504d2e3d57b1d154f22b1f8158e1ad728ca3",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "5.0.12",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
